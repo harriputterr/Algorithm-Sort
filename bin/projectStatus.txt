@@ -1,0 +1,17 @@
+Our team has done a good job to display the expected results. 
+
+We have adhered to the Assignment Instructions to our best efforts 
+and believe that we have completed 100% of the Assignment.
+
+Our code has made use of the below concepts to complete the assignment. 
+
+	- Reflection
+	- Inheritance
+	- Abstract classes and methods
+	- Comparable and Comparator Interface
+  	- Sorting Algorithms
+	- Usage of Collections (ArrayList) methods. 
+	- Handling Exceptions
+	- Reading from a file.
+	- Benchmarking
+
